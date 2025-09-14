@@ -1,6 +1,6 @@
 # EID-I
 Analizador de Funciones en Python
-📌 Descripción
+Descripción
 
 Este proyecto corresponde a la Parte B del EID – Unidad 2 (Funciones).
 Se trata de un analizador de funciones matemáticas con interfaz gráfica, desarrollado en Python, que permite:
@@ -43,10 +43,7 @@ Matplotlib
 Tkinter
  – interfaz gráfica.
 
-NumPy
- – soporte en cálculos numéricos (solo usado internamente por sympy/matplotlib).
-
-📂 Estructura del proyecto
+Estructura del proyecto
 analizador_funciones/
 │── main.py          # Punto de entrada
 │── analisis.py      # Lógica matemática (dominio, recorrido, etc.)
@@ -54,7 +51,7 @@ analizador_funciones/
 │── interfaz.py      # Interfaz gráfica Tkinter
 │── README.md        # Documentación
 
-🚀 Instalación y ejecución
+Instalación y ejecución
 
 Clonar el repositorio
 
@@ -78,7 +75,7 @@ Ejecutar el programa
 
 python main.py
 
-📖 Uso
+Uso
 
 Ingresar la función en el campo de texto, por ejemplo:
 
